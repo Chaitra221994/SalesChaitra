@@ -2,7 +2,7 @@ package chaitra_customer_module;
 
 import org.testng.annotations.Test;
 
-public class Jenkins_chaitra_test {
+public class main123 {
 	@Test(groups="smokesuite")
 	public void samplescript_3()
 	{
