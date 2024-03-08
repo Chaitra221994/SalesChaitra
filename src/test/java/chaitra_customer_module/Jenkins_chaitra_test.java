@@ -7,6 +7,9 @@ public class Jenkins_chaitra_test {
 	public void samplescript_3()
 	{
 		System.out.println("-----Smoke 3-----");
+		System.out.println("-----Smoke 4-----");
+		System.out.println("-----Smoke 5-----");
+		
 	}
 	
 	@Test(groups={"smokesuite","regressionsuite"})
